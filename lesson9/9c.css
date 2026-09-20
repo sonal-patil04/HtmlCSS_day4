@@ -1,0 +1,8 @@
+.border{
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    width: 300px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+}
